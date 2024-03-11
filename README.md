@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/5462728/218907749-22ddea15-8761-4cf3-b
 #
 *Microsoft and Windows XP trademarks & logos definitely belong to Microsoft Corporation. All the programs' names and logos (Foxit, Word, WinRar, Internet Explorer, etc.) are of their rightful copyright holders. **win32.run** is purely for the **purpose of nostalgia**. I have no intent and no right to monetize  **win32.run**, but you may occasionally see ads when playing third-party games.*
 
-# Introduction
+# Introduction go away
 ## 🦄 It's for nostalgia's sake!
 
 **WIN32.RUN** runs solely on the client-side (the user's browser). All files are processed right in the user's browser. There is no file uploading, no server-side processing (cause I'm broke, can't afford it). Each user has his own OS session (just like the good old Windows XP)
